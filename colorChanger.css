@@ -13,7 +13,7 @@
 #buttonStart {
   position: absolute;
   height: 40px;
-  z-index: 10;
+  z-index: 5;
   width: 100px;
 }
 
