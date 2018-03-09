@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#container {
+  height: 100vh;
+  width: 100%;
+  background-color: blue;
+  position: relative;
+  overflow: hidden;
+}
+
+#buttonStart {
+  position: absolute;
+  height: 40px;
+  z-index: 10;
+  width: 100px;
+}
+
+p {
+  margin: auto;
+  left: 1000px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  font-size: 100px;
+  position: absolute;
+}
